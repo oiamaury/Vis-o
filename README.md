@@ -1,2 +1,2 @@
 # Vis-o
-Visão computacional
+Visão computacional para pessoas com deficiência
